@@ -1,0 +1,67 @@
+{
+  "te_mean_repeat_ll": 0.42455569365758183,
+  "te_averaged_oof_ll": 0.42240248340531517,
+  "te_averaged_oof_auc": 0.7902501144834282,
+  "repeat_ll": [
+    0.425109233191731,
+    0.4241257292553253,
+    0.42513945583509366,
+    0.4252067383930847,
+    0.4241137854679605,
+    0.42362508421607703,
+    0.4247991849759034,
+    0.42426938774883055,
+    0.424678056945691,
+    0.42449028054612137
+  ],
+  "pay_types_local_oof": 0.422449736062935,
+  "submitted_w_pay_types": 0.5,
+  "submitted_blend_oof_ll": 0.422174552470131,
+  "blend_grid": [
+    {
+      "w_pay_types": 0.0,
+      "averaged_oof_ll": 0.42240248340531517
+    },
+    {
+      "w_pay_types": 0.1,
+      "averaged_oof_ll": 0.4223160989436589
+    },
+    {
+      "w_pay_types": 0.2,
+      "averaged_oof_ll": 0.4222502980315068
+    },
+    {
+      "w_pay_types": 0.30000000000000004,
+      "averaged_oof_ll": 0.42220487138879087
+    },
+    {
+      "w_pay_types": 0.4,
+      "averaged_oof_ll": 0.4221796601386887
+    },
+    {
+      "w_pay_types": 0.5,
+      "averaged_oof_ll": 0.422174552470131
+    },
+    {
+      "w_pay_types": 0.6000000000000001,
+      "averaged_oof_ll": 0.4221894813508015
+    },
+    {
+      "w_pay_types": 0.7000000000000001,
+      "averaged_oof_ll": 0.42222442315872466
+    },
+    {
+      "w_pay_types": 0.8,
+      "averaged_oof_ll": 0.42227939716293283
+    },
+    {
+      "w_pay_types": 0.9,
+      "averaged_oof_ll": 0.4223544658391611
+    },
+    {
+      "w_pay_types": 1.0,
+      "averaged_oof_ll": 0.42244973606293507
+    }
+  ],
+  "note": "Re-run output is in outputs/. Root CSV is the original upload."
+}
